@@ -1,0 +1,10 @@
+E001|Amit Sharma|IT|Mumbai|85000
+E002|Priya Patel|HR|Delhi|60000
+E003|Rohan Das|IT|Mumbai|90000
+E004|Sneha Reddy|Finance|Bangalore|75000
+E005|Vikram Malhotra|Sales|Delhi|55000
+E006|Ananya Iyer|IT|Bangalore|95000
+E007|Rajesh Kumar|Finance|Mumbai|70000
+E008|Meera Nair|HR|Bangalore|62000
+E009|Arjun Singh|Sales|Mumbai|50000
+E010|Kriti Verma|IT|Delhi|88000
